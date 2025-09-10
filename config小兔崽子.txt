@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx84096f81031d1681",
+# 公众号appSecret
+"app_secret": "755b94bf968bbe2437871ec826e9c0bb",
+# 模板消息id
+"template_id": "ezTYOyIIJTFG1FgFxVVa_JD3SqvUJvI1ILwBO_yNktE",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ol-sI2D0rUfAesrze6Pl5mDlkSM8"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "8c341826813e49c493b08b8182d7f9d9",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "秦都区",
+# 生日1
+"birthday1": {"name": "小兔崽子", "birthday": "2004-05-24"},
+# 生日2
+"birthday2": {"name": "小猪五花", "birthday": "2000-08-17"},
+# 认识的日子，格式同上
+"meet_date": "2024-11-08",
+# 在一起的日子，格式同上
+"love_date": "2024-12-31",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "偶尔想你，经常偶尔",
+# 金句英文
+"note_en": "Sometimes I miss you, often occasionally"
+}
